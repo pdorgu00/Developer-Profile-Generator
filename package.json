@@ -1,0 +1,24 @@
+{
+  "name": "solved",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "inquirer": "^6.5.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdorgu00/Developer-Profile-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pdorgu00/Developer-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/pdorgu00/Developer-Profile-Generator#readme"
+}
