@@ -10,7 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.0",
+<<<<<<< HEAD
     "html-pdf": "^2.2.0",
+=======
+>>>>>>> e36bf408025fdc7243e27a6babfe3bf96978be33
     "inquirer": "^6.5.0"
   },
   "devDependencies": {},
